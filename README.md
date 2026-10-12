@@ -4,11 +4,11 @@ Small notebooks and scripts for the statistical analysis that sits behind bioima
 
 ## Contents
 
-- `ANOVA.ipynb` - one way analysis of variance (ANOVA) for comparing measurements across groups
-- `Standard Deviation.ipynb` - standard deviation: spread of measurements within a group
-- `Standard Error of Mean.ipynb` - standard error of the mean (SEM): precision of the group mean
+- `anova.ipynb` - one way analysis of variance (ANOVA) for comparing measurements across groups
+- `standard_deviation.ipynb` - standard deviation: spread of measurements within a group
+- `standard_error_of_mean.ipynb` - standard error of the mean (SEM): precision of the group mean
 - `SEM.py` - standard error of the mean as a reusable Python script (the same calculation as the notebook)
-- `plot.ipynb` - plotting measurements for figures
+- `plotting.ipynb` - plotting measurements for figures
 
 ## How to use
 
